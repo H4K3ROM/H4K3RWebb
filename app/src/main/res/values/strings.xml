@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Changelog</string>
+    <string name="current_build">Current Build</string>
+    <string name="latest_changelog">Latest Changelog</string>
+</resources>
