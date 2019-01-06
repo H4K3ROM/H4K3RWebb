@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Changelog</string>
+    <string name="current_build">Current Build</string>
+    <string name="latest_changelog">Latest Changelog</string>
+    <string name="h4k3rwalls">H4K3RWalls  [scroll down]</string>
+    <string name="rom_updates">ROM Updates</string>
+    <string name="todo">TODO</string>
+    <string name="h4k3rom_xda">H4K3ROM XDA</string>
+</resources>
